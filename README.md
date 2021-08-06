@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Alt Text](https://tenor.com/view/haikyuu-gif-18390805)
+![Alt Text](https://github.com/Abjcodes/Abjcodes/blob/main/tenor.gif)
 [![Abijith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abjcodes)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Abjcodes)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abjcodes)](https://git.io/streak-stats)
