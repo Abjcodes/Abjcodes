@@ -1,5 +1,6 @@
 
-![Oikawa-Tōru-desktop-wallpaper](https://user-images.githubusercontent.com/42151354/147694399-ad27b009-07ec-4708-a1d8-3b9ff9ed9e39.jpg)
+![黒-on-Twitter](https://user-images.githubusercontent.com/42151354/147694659-820d063d-b641-4248-9e87-30eafd88e0d5.jpg)
+
 <h1 align="center">Hi 👋, I'm Abijith Vasanthakumar</h1>
 <h3 align="center">Frontend developer and UI/UX Designer from India</h3>
 
