@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Abijith Vasanthakumar</h1>
 <h3 align="center">Frontend developer and UI/UX Designer from India</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abjcodes&theme=nord" alt="abjcodes" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abjcodes&theme=chalk" alt="abjcodes" /></a> </p>
 
 
 - 👯 I’m looking to collaborate on **exciting projects**
