@@ -6,11 +6,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abjcodes&theme=chalk&no-bg=true&column=3&margin-w=15&margin-h=15" alt="abjcodes" /></a> </p>
 
-<p align="center">  👯 I’m looking to collaborate on **exciting projects** </p> 
+<p align="center">  👯 I’m looking to collaborate on <strong>exciting projects</strong> </p> 
 <br> 
 <p align="center"> 💬 Ask me about <strong>Web Development, ML/AI, UI/UX & Product design</strong></p> 
 <br>
-<p align="center">📫 How to reach me **abijithmv01@gmail.com**</p> 
+<p align="center">📫 How to reach me <a href="mailto:abijithmv01@gmail.comm"><strong>abijithmv01@gmail.com</strong></a></p> 
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
