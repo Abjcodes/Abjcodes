@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abjcodeslabel=Profile%20views&color=0e75b6&style=flat" alt="Abjcodes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abjcodes&&label=Profile%20views&color=0e75b6&style=flat" alt="Abjcodes" /> </p>
 ![黒-on-Twitter](https://user-images.githubusercontent.com/42151354/147694659-820d063d-b641-4248-9e87-30eafd88e0d5.jpg)
 
 <h1 align="center">Hi 👋, I'm Abijith Vasanthakumar</h1>
