@@ -8,8 +8,9 @@
 
 <p align="center">  👯 I’m looking to collaborate on **exciting projects** </p> 
 <br> 
-💬 Ask me about **Web Development, ML/AI, UI/UX & Product design**<br>
- 📫 How to reach me **abijithmv01@gmail.com**
+<p align="center"> 💬 Ask me about <strong>Web Development, ML/AI, UI/UX & Product design</strong></p> 
+<br>
+<p align="center">📫 How to reach me **abijithmv01@gmail.com**</p> 
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
