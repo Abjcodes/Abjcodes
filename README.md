@@ -8,7 +8,7 @@
 
 <p align="center">  👯 I’m looking to collaborate on <strong>exciting projects</strong> </p> 
 <br> 
-<p align="center"> 💬 Ask me about <strong>Web Development, ML/AI, UI/UX & Product design</strong></p> 
+<p align="center"> 💬 Ask me about <strong>Web Development, UI/UX & Product design</strong></p> 
 <br>
 <p align="center">📫 How to reach me <a href="mailto:abijithmv01@gmail.comm"><strong>abijithmv01@gmail.com</strong></a></p> 
 </p>
